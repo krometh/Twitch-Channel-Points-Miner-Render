@@ -116,7 +116,8 @@ twitch_miner.mine(
       "buddha",
       "clix",
       "mongraal",
-      "hjune"
+      "hjune",
+      "nmplol"
     ],                                  # Array of streamers (order = priority)
     followers=False,                    # Automatic download the list of your followers
     followers_order=FollowersOrder.ASC  # Sort the followers list by follow date. ASC or DESC
